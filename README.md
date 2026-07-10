@@ -85,6 +85,6 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Shashank Reddy**
+**Shashank patel**
 
 Cybersecurity Student | Full Stack Developer | AI & Security Enthusiast
